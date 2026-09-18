@@ -4,3 +4,4 @@ data/
 .venv/
 tools/
 matches/
+models/run*/
